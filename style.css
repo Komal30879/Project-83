@@ -1,0 +1,33 @@
+.body_background{
+    background-image: url("bg1.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+body{
+    cursor: pointer;
+}
+
+h1{
+    color: lightcoral;
+    font-size: 42px;
+    font-family: 'Roboto', "Algerian";
+}
+
+#myCanvas{
+    border-width: 10px;
+    border-color: white;
+    border-style: ridge;
+}
+
+button{
+    background-color: turquoise;
+    color: white;
+    border: none;
+    font-size: 20px;
+    padding: 10 42;
+}
+
+input{
+    margin-right: 20px;
+}
